@@ -3,11 +3,11 @@ This is where i started my portfolio building while taking my Data Analysis clas
 
 I have learnt a lot of things ranging from microsoft excel to Power Bi now currently on portfolio building
 
-Project Topic: Amazon-Product-Review-Analysis
+## Project Topic: Amazon-Product-Review-Analysis
 Project Overview
 This Data Analysis project aims to generate inssight into the Product Reveiwe of the Amazon-Product-Review-Analysis. By analysing the various parameters in the data received we seek to gather enough insight to make reasonable decisions which enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
 
-Tools Used
+## Tools Used
 Ms Excel for data cleaning
 Data Manipulation
 Power BI(For reporting)
