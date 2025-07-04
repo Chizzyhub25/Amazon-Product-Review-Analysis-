@@ -8,9 +8,8 @@ Project Overview
 This Data Analysis project aims to generate inssight into the Product Reveiwe of the Amazon-Product-Review-Analysis. By analysing the various parameters in the data received we seek to gather enough insight to make reasonable decisions which enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
 
 Tools Used
-Ms Excel for data cleaning Download here
+Ms Excel for data cleaning
 Data Manipulation
-Data munching
 Power BI(For reporting)
 Expository Data Analysis
 1. What is the average discount percentage by product category? 
